@@ -1,0 +1,9 @@
+this folder has locations file which contains certain pre-defines locations in london for the most jammed (crowded)streets and areas in london.
+
+it also has the Jammed Traffic file whcih contains words which is interpreted as jammed traffic 
+
+it also has the Crowded Traffic file whcih contains words which is interpreted as crowded traffic 
+
+it also has the Normal Traffic file whcih contains words which is interpreted as normal traffic 
+
+it also has the Location_estimation which contains words infer to the exact location of the incident.
